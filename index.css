@@ -11,11 +11,19 @@ there are definitely some properties you should add!*/
     }
 
     header {
-        background-color: blue;
+        background-color: Blue;
         padding: 5px;
-        font-size:18px;
+        font-size: 14px;
         display: block;
     }
+
+    h1 {
+        background-color: Red;
+        padding: 5px;
+        display: block;
+    }
+
+
     nav {
         float: left;
     }
@@ -35,7 +43,7 @@ there are definitely some properties you should add!*/
         vertical-align: middle;
     }
     a {
-        color: teal;
+        color: Teal;
     }
     section {
         width: 73%;
@@ -45,8 +53,8 @@ there are definitely some properties you should add!*/
     aside {
         width: 17%;
         display: inline-block;
-        background-color: yellow;
-        padding:5px;
+        background-color: Yellow;
+        padding: 5px;
         min-height: 100%;
     }
     aside ul {
@@ -54,8 +62,8 @@ there are definitely some properties you should add!*/
     }
     footer {
         width: 790px;
-        background-color:black;
-        color:white;
+        background-color: Solid Black;
+        color: White;
         clear: both;
         display: block;
     }
